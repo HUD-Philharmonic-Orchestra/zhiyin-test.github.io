@@ -1,11 +1,11 @@
 .bl-bgclor{
-    background-color: #154fa1;
+    background-color: #628251;
 }
 .bl-bgcolor-secondary{
-    background-color: #154fa1;
+    background-color: #628251;
 }
 .bl-color{
-    color: #0050B3;
+    color: #628251;
 }
 .bl-text-secondary{
     color:#999;
@@ -24,8 +24,8 @@
 .bl-banner p{
     text-align: center;
     color: #fff;
-    font-size:30px;
-    padding-top:120px;
+    font-size:60px;
+    padding-top:60px;
 }
 .jpress-img{
     position: absolute;
@@ -430,7 +430,7 @@
 .bl-footer{
     padding:2.5rem;
     margin:2.5rem 0 0 0;
-    background-color:#0050B3;
+    background-color:#628251;
 }
 .bl-footer a,.bl-footer .copyright{
     color:#fff;
@@ -448,7 +448,7 @@
 }
 /*header*/
 .bl-header{
-    background-color: #154fa1;
+    background-color: #628251;
     padding:1rem 0;
 }
 .icon-item a{
@@ -476,7 +476,7 @@ a.nav-prand:hover{
 }
 .bl-nav .nav-item a{
     padding:0 2rem;
-    color:#b2c8e5;
+    color:#fff;
 }
 .bl-nav .nav-item a:hover{
      color:#fff;
@@ -580,5 +580,38 @@ a.nav-prand:hover{
 .bl-content-info{
     color:#999;
 }
+
+
+.bl-container-search {
+height: 70px;
+width: 800px;
+margin: 100px auto 0 auto;
+}
+.parent {
+position: relative;
+/*text-align: center;
+width: 100%;*/
+}
+.search {
+width: 600px;
+height: 40px;
+border-radius: 18px;
+outline: none;
+border: 1px solid #ccc;
+padding-left: 20px;
+position: relative ;
+left: 250px;
+}
+/*.btn {
+height: 35px;
+width: 35px;
+position: absolute;
+background: url("images/topbar.png") no-repeat -2px -99px;
+top: 6px;
+left: 285px;
+border: none;
+outline: none;
+cursor: pointer;
+}*/
 /*animation*/
 
